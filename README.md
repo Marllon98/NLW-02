@@ -11,6 +11,7 @@
 * [Tecnologias](#computer-tecnologias)
 * [Funcionalidades](#rocket-funcionalidades)
 * [Como rodar](#construction_worker-como-rodar)
+* [License](#closed_book-license)
 
 ### Web Screenshot
 <div style="display: flex; flex-direction: 'row'; align-items: 'center';">
@@ -88,7 +89,7 @@ $ npm start
 Depois leia o QRCode com o app do [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) ou rode em um emulador.
 
 
-# :closed_book: Licencia
+# :closed_book: Licença
 
 Lançado em 2020 :closed_book:
 
