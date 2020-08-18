@@ -11,7 +11,7 @@
 * [Tecnologias](#computer-tecnologias)
 * [Funcionalidades](#rocket-funcionalidades)
 * [Como rodar](#construction_worker-como-rodar)
-* [License](#closed_book-license)
+* [Licença](#closed_book-license)
 
 ### Web Screenshot
 <div style="display: flex; flex-direction: 'row'; align-items: 'center';">
