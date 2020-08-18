@@ -42,7 +42,7 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 # :construction_worker: Como rodar
 ```bash
-# Clone o Repositoria
+# Clone o Repositório
 $ git clone https://github.com/grazielleanna/NLW-02.git
 ```
 ### 📦 Rode a API
@@ -91,7 +91,6 @@ Depois leia o QRCode com o app do [expo](https://play.google.com/store/apps/deta
 
 # :closed_book: Licencia
 
-Lançado em 2020 :closed_book: Licensa
+Lançado em 2020 :closed_book:
 
 Feito com carinho [Anna Grazielle](https://github.com/grazielleanna) 🚀.
-Esse projeto esta sobre [MIT license](./LICENSE).
