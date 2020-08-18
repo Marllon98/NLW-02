@@ -92,4 +92,4 @@ Depois leia o QRCode com o app do [expo](https://play.google.com/store/apps/deta
 
 Lançado em 2020 :closed_book:
 
-Feito com carinho [Anna Grazielle](https://github.com/grazielleanna) 🚀.
+Feito com carinho por [Anna Grazielle](https://github.com/grazielleanna) 🚀.
